@@ -12,3 +12,5 @@
 只不过要注意的是！！！
 要加上 sudo ./NetEase....AppImage
 不然的话会出现   local file  "" ('Netease Cloud Music')
+ 但是我发现。。。没有我的歌单，登陆以后。。
+ 可能之后会好？？？ 我不确定，之后会补充的
